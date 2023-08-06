@@ -1,0 +1,13 @@
+2023-08-06 03:32:11.348299 - Initialized conversion of CBT343
+2023-08-06 03:32:11.423124 - Received CBT.V505.FILE343.PDS from FILE343.XMI 
+2023-08-06 03:32:11.425254 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE343.PDS, moved to PDS/$$$#DATE
+2023-08-06 03:32:11.426179 - Found $$ASM.jcl (text/plain) in CBT.V505.FILE343.PDS, moved to PDS/$$ASM
+2023-08-06 03:32:11.427438 - Found $$DOC.txt (text/plain) in CBT.V505.FILE343.PDS, moved to PDS/$$DOC
+2023-08-06 03:32:11.428518 - Found $$JCL.jcl (text/plain) in CBT.V505.FILE343.PDS, moved to PDS/$$JCL
+2023-08-06 03:32:11.429456 - Found $$JCL2.jcl (text/plain) in CBT.V505.FILE343.PDS, moved to PDS/$$JCL2
+2023-08-06 03:32:11.430596 - Found $$NOTE1.txt (text/plain) in CBT.V505.FILE343.PDS, moved to PDS/$$NOTE1
+2023-08-06 03:32:11.431595 - Found $$NOTE2.txt (text/plain) in CBT.V505.FILE343.PDS, moved to PDS/$$NOTE2
+2023-08-06 03:32:11.432469 - Found @FILE343.txt (text/plain) in CBT.V505.FILE343.PDS, moved to PDS/@FILE343
+2023-08-06 03:32:11.433375 - Found ASMLINK.jcl (text/plain) in CBT.V505.FILE343.PDS, moved to PDS/ASMLINK
+2023-08-06 03:32:11.434429 - Found VTOCLIST.txt (text/plain) in CBT.V505.FILE343.PDS, moved to PDS/VTOCLIST
+2023-08-06 03:32:11.435416 - Found VT0CLIST.txt (text/plain) in CBT.V505.FILE343.PDS, moved to PDS/VT0CLIST
